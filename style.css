@@ -51,7 +51,7 @@ nav ul li a:hover{
     color: #f9004d;
     transition: 0.4s;
 }
-.btn{
+.download-btn{
     color: white;
     background-color: #f9004d;
     text-decoration: none;
@@ -61,7 +61,7 @@ nav ul li a:hover{
     border-radius: 30px;
     transition: 0.4s;
 }
-.btn:hover{
+.download-btn:hover{
    transform: scale(1.2);
 }
 .content{
